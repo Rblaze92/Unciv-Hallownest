@@ -72,5 +72,5 @@
 		"requiredTech": "Theology",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
-	}, 
+	}
 ]
