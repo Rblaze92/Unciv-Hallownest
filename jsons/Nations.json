@@ -29,6 +29,7 @@
 
 		"outerColor": [64,64,64],
 		"innerColor": [224,224,224],
+		"uniquename": "Light of The Pale God", 
 		"unique": "[+100]% Spread Religion Strength",
 		"cities": ["City of Tears","Forgotten Crossroads","Dirtmouth","Greenpath","Crystal Peak","Kingdom's edge","Fungal wastes","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
