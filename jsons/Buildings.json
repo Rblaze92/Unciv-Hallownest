@@ -23,7 +23,7 @@
 	}, 
 	{
 		"name": "Teacher's Archive",
-		"replaces": "Circus Maximus",
+		"replaces": "Library",
 		"uniqueTo": "Hallownest",
 		"cost": 210,
 		"faith": 15,
@@ -33,4 +33,15 @@
 		"isNationalWonder": true,
 		"requiredTech": "Writing"
 	},
-]
+	{
+		"name": "Colosseum of Fools",
+		"replaces": "Colosseum",
+		"uniqueTo": "Hallownest",
+		"cost": 300,
+		"culture": 8,
+		"happiness": 5,
+		"maintenance": 120,
+		"isNationalWonder": true,
+		"requiredTech": "Horseback Riding"
+	},
+]	
