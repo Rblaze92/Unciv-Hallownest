@@ -43,4 +43,14 @@
 		"isNationalWonder": true,
 		"requiredTech": "Architecture"
 	},
+	{
+		"name": "Soul Sanctum",
+		"uniqueTo": "Hallownest",
+		"cost": 180,
+		"culture": 2,
+		"science": 20,
+		"maintenance": 100,
+		"isNationalWonder": true,
+		"requiredTech": "Theology"
+	}
 ]	
