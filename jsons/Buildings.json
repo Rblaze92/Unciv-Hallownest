@@ -9,11 +9,10 @@
 		"science": 5,
 		"maintenance": 96,
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
 		"requiredTech": "Horseback Riding"
 	},
 	{
-		"name": "Breeders",
+		"name": "Royal Waterways",
 		"replaces": "Aqueduct",
 		"uniqueTo": "Hallownest",
 		"cost": 80,
@@ -21,5 +20,17 @@
 		"happiness": 2,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Engineering"
-	}
+	}, 
+	{
+		"name": "Teacher's Archive",
+		"replaces": "Circus Maximus",
+		"uniqueTo": "Hallownest",
+		"cost": 210,
+		"faith": 15,
+		"culture": 12,
+		"science": 5,
+		"maintenance": 56,
+		"isNationalWonder": true,
+		"requiredTech": "Writing"
+	},
 ]
