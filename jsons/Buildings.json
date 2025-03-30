@@ -1,12 +1,12 @@
 [
 	{
-		"name": "Holodeck",
+		"name": "White Palace",
 		"replaces": "Circus Maximus",
 		"uniqueTo": "Aliens",
 		"cost": 480,
-		"happiness": 12,
+		"faith": 15,
 		"culture": 12,
-		"science": 12,
+		"science": 5,
 		"maintenance": 96,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Colosseum",
