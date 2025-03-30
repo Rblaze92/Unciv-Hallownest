@@ -48,4 +48,29 @@
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}, 
+	{
+		"name": "Aspid",
+		"unitType": "Ranged",
+		"uniqueTo": "Hallownest",
+		"movement": 5,
+		"strength": 8,
+		"rangedStrength": 25,
+		"range": 4,
+		"cost": 50,
+		"promotions": ["Logistics","Accuracy I"],
+		"attackSound": "phasers"
+	}, 
+	{
+		"name": "Soul Twister",
+		"unitType": "Ranged",
+		"uniqueTo": "Hallownest",
+		"movement": 6,
+		"strength": 10,
+		"rangedStrength": 140,
+		"range": 6,
+		"cost": 232,
+		"requiredTech": "Theology",
+		"promotions": ["Logistics","Accuracy I"],
+		"attackSound": "phasers"
+	}, 
 ]
