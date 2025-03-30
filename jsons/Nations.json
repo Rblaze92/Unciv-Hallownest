@@ -3,11 +3,14 @@
 		"name": " Hallownest",
 		"leaderName": "Pale King",
 		"adjective": ["bug"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart2": "In wilds beyond they speak your name with reverence and regret,
+For none could tame our savage souls yet you the challenge met,
+Under palest watch, you taught, we changed, base instincts were redeemed,
+A world you gave to bug and beast as they had never dreamed.",
 		
 		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
 		"attacked": "You want to play? Very funny!",
@@ -29,7 +32,7 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
+		"unique": "Reveals the entire map",
 		"cities": ["City of Tears","Forgotten Crossroads","Dirtmouth","Greenpath","Crystal Peak","Kingdom's edge","Fungal wastes","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
