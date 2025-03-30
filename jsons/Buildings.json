@@ -1,7 +1,6 @@
 [
 	{
 		"name": "White Palace",
-		"replaces": "Circus Maximus",
 		"uniqueTo": "Hallownest",
 		"cost": 480,
 		"faith": 15,
@@ -42,6 +41,6 @@
 		"happiness": 5,
 		"maintenance": 120,
 		"isNationalWonder": true,
-		"requiredTech": "Horseback Riding"
+		"requiredTech": "Architecture"
 	},
 ]	
