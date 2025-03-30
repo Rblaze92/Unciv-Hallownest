@@ -6,7 +6,7 @@
 		"faith": 15,
 		"culture": 12,
 		"science": 5,
-		"maintenance": 96,
+		"maintenance": 1,
 		"isNationalWonder": true,
 		"requiredTech": "Horseback Riding"
 	},
@@ -28,7 +28,7 @@
 		"faith": 15,
 		"culture": 12,
 		"science": 5,
-		"maintenance": 56,
+		"maintenance": 2,
 		"isNationalWonder": true,
 		"requiredTech": "Writing"
 	},
@@ -39,7 +39,7 @@
 		"cost": 300,
 		"culture": 8,
 		"happiness": 5,
-		"maintenance": 120,
+		"maintenance": 2,
 		"isNationalWonder": true,
 		"requiredTech": "Architecture"
 	},
@@ -49,7 +49,7 @@
 		"cost": 180,
 		"culture": 2,
 		"science": 20,
-		"maintenance": 100,
+		"maintenance": 3,
 		"isNationalWonder": true,
 		"requiredTech": "Theology"
 	}
