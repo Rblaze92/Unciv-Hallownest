@@ -1,17 +1,51 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
+		"name": "Husk Warrior",
+		"unitType": "Sword",
+		"uniqueTo": "Hallownest",
+		"replaces": "Warrior",
+		"movement": 3,
+		"strength": 80,
+		"cost": 25,
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
-	}
+	}, 
+	{
+		"name": "Husk Sentry",
+		"unitType": "Sword",
+		"uniqueTo": "Hallownest",
+		"replaces": "Swordsman",
+		"movement": 4,
+		"strength": 111,
+		"cost": 35,
+		"requiredTech": "Iron Working",
+		"requiredResource": "Iron",
+		"promotions": ["Logistics","Accuracy I"],
+		"attackSound": "phasers"
+	}, 
+ 	{
+		"name": "Winged Sentry",
+		"unitType": "Sword",
+		"uniqueTo": "Hallownest",
+		"movement": 8,
+		"strength": 45,
+		"cost": 35,
+		"requiredTech": "Iron Working",
+		"requiredResource": "Iron",
+		"promotions": ["Logistics","Accuracy I"],
+		"attackSound": "phasers"
+	}, 
+	{
+		"name": "Heavy Sentry",
+		"unitType": "Sword",
+		"uniqueTo": "Hallownest",
+		"replaces": "Knight",
+		"movement": 2,
+		"strength": 210,
+		"cost": 80,
+		"requiredTech": "Iron Working",
+		"requiredResource": "Iron",
+		"promotions": ["Logistics","Accuracy I"],
+		"attackSound": "phasers"
+	}, 
 ]
