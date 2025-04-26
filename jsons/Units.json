@@ -79,7 +79,7 @@
 		"uniqueTo": "Hallownest",
 		"movement": 1,
 		"strength": 78,
-		"uniques": "Unbuildable", "Cannot be purchased", 
+		"uniques": "Unbuildable",
 		"requiredTech": "Iron Working",
 		"requiredResource": "Iron",
 		"promotions": ["Logistics","Accuracy I"],
