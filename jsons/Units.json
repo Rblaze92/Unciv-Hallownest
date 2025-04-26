@@ -10,6 +10,7 @@
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}, 
+	{
 		"name": "Husk Sentry",
 		"unitType": "Sword",
 		"uniqueTo": "Hallownest",
