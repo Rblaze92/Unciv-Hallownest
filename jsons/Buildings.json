@@ -51,5 +51,53 @@
 		"maintenance": 3,
 		"isNationalWonder": true,
 		"requiredTech": "Theology"
-	}
-]	
+	}, 
+	{
+		"name": "Great Knights Project",
+		"uniqueTo": "Hallownest",
+		"cost": 1000,
+		"faith": 2,
+		"culture": 4,
+		"uniques": [",
+		"isNationalWonder": true,
+	},
+	{
+		"name": "Trampass Project",
+		"uniqueTo": "Hallownest",
+		"cost": 1000,
+		"faith": 2,
+		"culture": 4,
+		"isNationalWonder": true,
+	},
+	{
+		"name": "Void Project",
+		"uniqueTo": "Hallownest",
+		"cost": 1000,
+		"science": 3,
+		"isNationalWonder": true,
+	},
+	{
+		"name": "Vessel Project",
+		"uniqueTo": "Hallownest",
+		"cost": 1000,
+		"faith": 2,
+		"culture": 4,
+		"isNationalWonder": true,
+	},
+	{
+		"name": "Dreamers Project",
+		"uniqueTo": "Hallownest",
+		"cost": 1000,
+		"faith": 2,
+		"culture": 4,
+		"isNationalWonder": true,
+	},
+	{
+		"name": "Temple of The Black Egg",
+		"uniqueTo": "Hallownest",
+		"cost": 1500,
+		"faith": 10,
+		"culture": 3,
+		"isNationalWonder": true,
+	},
+]
