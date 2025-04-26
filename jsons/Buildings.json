@@ -58,7 +58,7 @@
 		"cost": 1000,
 		"faith": 2,
 		"culture": 4,
-		"uniques": ["Free [Great Knight Hegemol] appears", "Free [Great Knight Dryaa] appears", "Free [Great Knight Isma] appears", "Free [Great Knight Ze'mer] appears",
+		"uniques": ["Free [Great Knight Hegemol] appears", "Free [Great Knight Dryaa] appears", "Free [Great Knight Isma] appears", "Free [Great Knight Ze'mer] appears", "Free [Great Knight Ogrim"], 
 		"isNationalWonder": true,
 	}, 
 	{
