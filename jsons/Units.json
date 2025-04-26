@@ -9,7 +9,8 @@
 		"cost": 25,
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
-	}, ntry",
+	}, 
+		"name": "Husk Sentry",
 		"unitType": "Sword",
 		"uniqueTo": "Hallownest",
 		"replaces": "Swordsman",
