@@ -72,5 +72,86 @@
 		"requiredTech": "Theology",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
-	}
+	}, 
+	{
+		"name": "Great Knight Hegemol",
+		"unitType": "Sword",
+		"uniqueTo": "Hallownest",
+		"movement": 1,
+		"strength": 78,
+		"cost": 9999
+		"requiredTech": "Iron Working",
+		"requiredResource": "Iron",
+		"promotions": ["Logistics","Accuracy I"],
+		"attackSound": "phasers"
+	}, 
+	{
+		"name": "Great Knight Dryaa",
+		"unitType": "Sword",
+		"uniqueTo": "Hallownest",
+		"replaces": "Swordsman",
+		"movement": 3,
+		"strength": 50,
+		"cost": 9999,
+		"requiredTech": "Iron Working",
+		"requiredResource": "Iron",
+		"promotions": ["Logistics","Accuracy I"],
+		"attackSound": "phasers"
+	}, 
+	{
+		"name": "Great Knight Ze'mer",
+		"unitType": "Sword",
+		"uniqueTo": "Hallownest",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 60,
+		"cost": 9999,
+		"requiredTech": "Iron Working",
+		"requiredResource": "Iron",
+		"promotions": ["Logistics","Accuracy I"],
+		"attackSound": "phasers"
+	}, 
+	{
+		"name": "Great Knight Isma",
+		"unitType": "Sword",
+		"uniqueTo": "Hallownest",
+		"replaces": "Swordsman",
+		"movement": 1,
+		"strength": 35,
+		"rangedStrength": 70,
+		"range": 4,
+		"cost": 9999,
+		"requiredTech": "Iron Working",
+		"requiredResource": "Iron",
+		"promotions": ["Logistics","Accuracy I"],
+		"attackSound": "phasers"
+	}, 
+	{
+		"name": "Great Knight Dung",
+		"unitType": "Sword",
+		"uniqueTo": "Hallownest",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 45,
+		"rangedStrength": 55,
+		"range": 2,
+		"cost": 9999,
+		"requiredTech": "Iron Working",
+		"requiredResource": "Iron",
+		"promotions": ["Logistics","Accuracy I"],
+		"attackSound": "phasers"
+	}, 
+	{
+		"name": "King's Mould",
+		"unitType": "Sword",
+		"uniqueTo": "Hallownest",
+		"replaces": "Swordsman",
+		"movement": 3,
+		"strength": 35,
+		"cost": 280,
+		"requiredTech": "Iron Working",
+		"requiredResource": "Iron",
+		"promotions": ["Logistics","Accuracy I"],
+		"attackSound": "phasers"
+	}, 
 ]
