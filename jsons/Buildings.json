@@ -2,13 +2,12 @@
 	{
 		"name": "White Palace",
 		"uniqueTo": "Hallownest",
-		"cost": 480,
+		"cost": 1,
 		"faith": 15,
 		"culture": 12,
 		"science": 5,
 		"maintenance": 1,
 		"isNationalWonder": true,
-		"requiredTech": "Horseback Riding"
 	},
 	{
 		"name": "Royal Waterways",
