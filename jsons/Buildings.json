@@ -60,7 +60,7 @@
 		"culture": 4,
 		"uniques": ["Free [Great Knight Hegemol] appears", "Free [Great Knight Dryaa] appears", "Free [Great Knight Isma] appears", "Free [Great Knight Ze'mer] appears",
 		"isNationalWonder": true,
-	}, 
+	},
 	{
 		"name": "Trampass Project",
 		"uniqueTo": "Hallownest",
